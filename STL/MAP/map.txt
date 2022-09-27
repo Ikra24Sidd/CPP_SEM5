@@ -1,0 +1,9 @@
+1. MAP IS A CONTAINER WHICH STORES THE VALUES IN FORM OF KEY VALUE PAIR
+2. The values in a map can be duplicate, but the keys of the map should always be unique
+3. If we try to add a key value pair in a map , for an already existing key-
+	3.1 Using assignment operator- it will change the previous value associated with that key
+	3.2 Using insert function- it will not change the previous value for the existing key
+4. Insert function will only work if the key is not already present in the map, otherwise it 
+    will not have change on the existing value
+5. By default, the elements in a map are printed in ascending order of the key
+6. 

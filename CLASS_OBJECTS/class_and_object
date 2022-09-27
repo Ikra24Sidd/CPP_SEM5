@@ -1,0 +1,16 @@
+Access specifier-
+	1. Public- can be accessed outside the class, throughout the program
+	2. Protected- can be accessed outside the class, by the derived class and friend class
+	3. Private- can only be accessed inside the class and only by the friend class, 
+	          cannot be accessed by the derived class
+
+
+POLYMORPHISM- 
+Many forms of a function
+
+	1. Compile Time-
+		1.1- Function Overloading
+		1.2- Operator Overloading
+
+	2. Run Time-
+		2.1- Virtual Function

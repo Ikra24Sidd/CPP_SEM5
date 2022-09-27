@@ -1,0 +1,18 @@
+1) cpp prog to reverse a string.
+
+2) replace every letter in the string with the next letter in the alphabet.
+
+3) capitalise the first letter of each word in a string where words are separated with a space.
+ eg hello H how H are A you Y
+
+4) find the largest word in the string.
+
+5) count all the vowels in a string.
+
+6) find whether the string is palindrome or not.
+
+7) find a word in a given string where highest letter is repeated.
+
+8) change  uppercase to lowercase and lowercase to uppercase in a string.
+
+9) A program to check whether a substring is part of a given string or not.

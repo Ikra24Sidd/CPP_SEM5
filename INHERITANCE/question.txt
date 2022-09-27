@@ -1,0 +1,4 @@
+Q1. Find the union and intersection of 2 sorted arrays
+Q2. Write a program to merge 2 sorted arrays
+Q3. WAP to move all the negative elements at the end
+Q4. Find if there is any subarray with the sum is 0
